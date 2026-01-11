@@ -5,5 +5,12 @@
     "hash": "$2b$10$L7pXPWb1vqeBJyVI/yzm6uwB/lo0WgzLm9cZQ9K0MmAhU4UCmVPe2",
     "role": "admin",
     "registeredIp": "127.0.0.1"
+  },
+  {
+    "id": "u-uhkmjizkh",
+    "username": "woolisbest",
+    "hash": "$2b$10$Ma9KmFzFUqLq6J/ccygyL.VZc7pu.ECp.sasecuMbR/QiuP/9gHTO",
+    "role": "user",
+    "registeredIp": "217.178.204.79, 172.71.124.142, 10.17.158.165"
   }
 ]
