@@ -26,5 +26,12 @@
     "hash": "$2b$10$U82ecWaPNBnsCjg9bGnzseJtNMpvk3kiZ0X5ySPioqs7G7Q3m9R06",
     "role": "user",
     "registeredIp": "217.178.204.79, 172.69.63.11, 10.17.191.229"
+  },
+  {
+    "id": "u-vjds3cbyg",
+    "username": "",
+    "hash": "$2b$10$54FuyExQTzKiToaDmjvA1uuthhr43QoFCgS/0/RJWKMvXICYnml3S",
+    "role": "user",
+    "registeredIp": "217.178.204.79, 172.69.63.10, 10.17.173.31"
   }
 ]
