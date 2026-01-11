@@ -47,5 +47,12 @@
     "hash": "$2b$10$ArwzpkjYhgydLBCnZihTY.Xzk42Af4A.9gZLfqgNHV.VFbwmFoGTq",
     "role": "user",
     "registeredIp": "217.178.204.79, 172.71.124.166, 10.17.191.229"
+  },
+  {
+    "id": "u-hc4ktoq4f",
+    "username": "f5b2mjrkm3f8",
+    "hash": "$2b$10$LlaV11ahFs/Yv9d.EqgcaeMHOm4rSut49bdDmaSzhvMc7P50smLha",
+    "role": "user",
+    "registeredIp": "217.178.204.79, 172.69.166.86, 10.17.158.165"
   }
 ]
