@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "u-master",
+    "username": "admin_root",
+    "hash": "$2b$10$L7pXPWb1vqeBJyVI/yzm6uwB/lo0WgzLm9cZQ9K0MmAhU4UCmVPe2",
+    "role": "admin",
+    "registeredIp": "127.0.0.1"
+  }
+]
